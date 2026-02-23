@@ -15,7 +15,7 @@ int main() {
 
     cout << "Value of x: " << x << endl; // Output will be 10
     cout << "Value of ref: " << ref << endl; // Output will be 10
-    printf("VAlue of x: %d\n", x); // Output will be 10
+    printf("Value of x: %d\n", x); // Output will be 10
 
     return 0;
 }
